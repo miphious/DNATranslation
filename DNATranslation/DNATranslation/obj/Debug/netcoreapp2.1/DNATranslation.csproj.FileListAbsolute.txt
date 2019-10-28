@@ -1,0 +1,11 @@
+C:\Users\sutha\source\repos\DNATranslation\DNATranslation\bin\Debug\netcoreapp2.1\DNATranslation.deps.json
+C:\Users\sutha\source\repos\DNATranslation\DNATranslation\bin\Debug\netcoreapp2.1\DNATranslation.runtimeconfig.json
+C:\Users\sutha\source\repos\DNATranslation\DNATranslation\bin\Debug\netcoreapp2.1\DNATranslation.runtimeconfig.dev.json
+C:\Users\sutha\source\repos\DNATranslation\DNATranslation\bin\Debug\netcoreapp2.1\DNATranslation.dll
+C:\Users\sutha\source\repos\DNATranslation\DNATranslation\bin\Debug\netcoreapp2.1\DNATranslation.pdb
+C:\Users\sutha\source\repos\DNATranslation\DNATranslation\obj\Debug\netcoreapp2.1\DNATranslation.csprojAssemblyReference.cache
+C:\Users\sutha\source\repos\DNATranslation\DNATranslation\obj\Debug\netcoreapp2.1\DNATranslation.csproj.CoreCompileInputs.cache
+C:\Users\sutha\source\repos\DNATranslation\DNATranslation\obj\Debug\netcoreapp2.1\DNATranslation.AssemblyInfoInputs.cache
+C:\Users\sutha\source\repos\DNATranslation\DNATranslation\obj\Debug\netcoreapp2.1\DNATranslation.AssemblyInfo.cs
+C:\Users\sutha\source\repos\DNATranslation\DNATranslation\obj\Debug\netcoreapp2.1\DNATranslation.dll
+C:\Users\sutha\source\repos\DNATranslation\DNATranslation\obj\Debug\netcoreapp2.1\DNATranslation.pdb
